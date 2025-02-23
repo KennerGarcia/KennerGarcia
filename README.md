@@ -1,3 +1,3 @@
-<div align="center">
-  <img height="180" width="750" src="https://i.pinimg.com/736x/af/69/92/af69921bd04546c232d0a0aa3ba437c5.jpg"  />
+<div align="center" height="180" width="750" object-fit="contain" >
+  <img object-fit="contain" src="https://i.pinimg.com/736x/a5/24/81/a52481f96baf9e6d9bbe9f40729c7346.jpg"/>
 </div>
